@@ -1,0 +1,8 @@
+Value 1:
+no value needed for swapping
+it auto switch
+for middleplay use mid or mid2
+**(if mid switches side in a way you dont want use mid2)**
+
+Value 2:
+Time it takes to swap
