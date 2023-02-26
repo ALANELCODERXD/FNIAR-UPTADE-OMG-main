@@ -1,0 +1,19 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "jhon-bg",
+		"player1": "bf-pixel",
+		"player2": "jhon",
+		"player3": null,
+		"events": [
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 200,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Get-Out"
+	}
+}

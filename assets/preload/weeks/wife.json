@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["b-a-s", "wife", [165, 0, 77]],	
+		["get-out", "wife", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "No Players Online",
+	"difficulties": "hard",
+	"weekName": "wife",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

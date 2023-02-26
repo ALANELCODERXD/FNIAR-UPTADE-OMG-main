@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "tmk-fakerbitch left"
+		},
+		{
+			"offsets": [
+				80,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "tmk-fakerbitch right"
+		},
+		{
+			"offsets": [
+				80,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "tmk-fakerbitch down"
+		},
+		{
+			"offsets": [
+				80,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "tmk-fakerbitch up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tmk-fakerbitch idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TMK_FakerBitch_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tmk",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		184,
+		184
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 7.99999999999999
+}

@@ -1,0 +1,179 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "tmk-bg",
+		"player1": "bf-kirby",
+		"player2": "tmk",
+		"player3": null,
+		"events": [
+			[
+				50400,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk-fakerbitch"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				64025,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				64050,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.01"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk"
+					]
+				]
+			],
+			[
+				76850,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				123200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk-fakerbitch"
+					]
+				]
+			],
+			[
+				123400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk"
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk"
+					]
+				]
+			],
+			[
+				123800,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk-fakerbitch"
+					]
+				]
+			],
+			[
+				124000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk"
+					]
+				]
+			],
+			[
+				124100,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk-fakerbitch"
+					]
+				]
+			],
+			[
+				124200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk"
+					]
+				]
+			],
+			[
+				124300,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk-fakerbitch"
+					]
+				]
+			],
+			[
+				124400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"tmk"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pixel-Horror"
+	}
+}

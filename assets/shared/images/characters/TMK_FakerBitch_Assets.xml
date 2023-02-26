@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tmk-fakerbitch.png"><SubTexture name="tmk-fakerbitch idle0000" x="0" y="19" width="20" height="18" frameX="-2" frameY="-2" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch idle0001" x="0" y="0" width="20" height="19" frameX="-2" frameY="-1" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch idle0002" x="0" y="55" width="22" height="17" frameX="-1" frameY="-3" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch idle0003" x="20" y="19" width="20" height="18" frameX="-2" frameY="-2" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch up0000" x="20" y="0" width="20" height="19" frameX="-2" frameY="-1" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch up0001" x="40" y="0" width="20" height="18" frameX="-2" frameY="-2" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch left0000" x="0" y="37" width="21" height="18" frameX="-1" frameY="-2" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch left0001" x="40" y="18" width="20" height="18" frameX="-2" frameY="-2" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch down0000" x="60" y="36" width="20" height="17" frameX="-2" frameY="-3" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch down0001" x="21" y="37" width="20" height="18" frameX="-2" frameY="-2" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch right0000" x="60" y="0" width="21" height="18" frameX="-2" frameY="-2" frameWidth="24" frameHeight="21" />
+<SubTexture name="tmk-fakerbitch right0001" x="60" y="18" width="21" height="18" frameX="-1" frameY="-2" frameWidth="24" frameHeight="21" />
+</TextureAtlas>

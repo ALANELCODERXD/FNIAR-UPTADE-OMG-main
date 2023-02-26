@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-kirby.png"><SubTexture name="bf-kirby idle0000" x="62" y="159" width="33" height="25" frameX="-5" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby idle0001" x="185" y="185" width="34" height="24" frameX="-4" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby idle0002" x="227" y="0" width="33" height="24" frameX="-5" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby idle0003" x="62" y="159" width="33" height="25" frameX="-5" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up0000" x="119" y="106" width="30" height="26" frameX="-8" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up0001" x="119" y="132" width="30" height="26" frameX="-8" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up0002" x="166" y="0" width="30" height="26" frameX="-8" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up0003" x="95" y="159" width="31" height="25" frameX="-7" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up miss0000" x="166" y="26" width="30" height="26" frameX="-8" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up miss0001" x="166" y="52" width="30" height="26" frameX="-8" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up miss0002" x="166" y="78" width="30" height="26" frameX="-8" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby up miss0003" x="126" y="159" width="31" height="25" frameX="-7" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left0000" x="0" y="159" width="31" height="26" frameX="-5" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left0001" x="157" y="159" width="31" height="25" frameX="-6" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left0002" x="196" y="0" width="31" height="25" frameX="-6" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left0003" x="196" y="25" width="31" height="25" frameX="-7" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left miss0000" x="31" y="159" width="31" height="26" frameX="-5" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left miss0001" x="196" y="50" width="31" height="25" frameX="-6" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left miss0002" x="196" y="75" width="31" height="25" frameX="-6" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby left miss0003" x="196" y="100" width="31" height="25" frameX="-7" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down0000" x="227" y="24" width="31" height="24" frameX="-7" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down0001" x="227" y="48" width="31" height="24" frameX="-7" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down0002" x="227" y="72" width="31" height="24" frameX="-7" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down0003" x="0" y="185" width="32" height="25" frameX="-6" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down miss0000" x="227" y="96" width="31" height="24" frameX="-7" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down miss0001" x="227" y="120" width="31" height="24" frameX="-7" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down miss0002" x="227" y="144" width="31" height="24" frameX="-7" frameY="-30" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby down miss0003" x="32" y="185" width="32" height="25" frameX="-6" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right0000" x="166" y="104" width="30" height="26" frameX="-10" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right0001" x="196" y="125" width="30" height="25" frameX="-9" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right0002" x="196" y="150" width="31" height="25" frameX="-8" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right0003" x="64" y="185" width="30" height="25" frameX="-8" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right miss0000" x="166" y="130" width="30" height="26" frameX="-10" frameY="-28" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right miss0001" x="94" y="185" width="30" height="25" frameX="-9" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right miss0002" x="124" y="185" width="31" height="25" frameX="-8" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby right miss0003" x="155" y="185" width="30" height="25" frameX="-8" frameY="-29" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0000" x="0" y="0" width="33" height="53" frameX="-5" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0001" x="33" y="0" width="33" height="53" frameX="-5" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0002" x="66" y="0" width="33" height="53" frameX="-5" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0003" x="99" y="0" width="33" height="53" frameX="-5" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0004" x="0" y="53" width="33" height="53" frameX="-5" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0005" x="33" y="53" width="33" height="53" frameX="-5" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0006" x="66" y="53" width="33" height="53" frameX="-5" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dies0007" x="132" y="0" width="34" height="53" frameX="-4" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dead loop0000" x="132" y="0" width="34" height="53" frameX="-4" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dead confirm0000" x="132" y="53" width="33" height="53" frameX="-4" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dead confirm0001" x="99" y="53" width="30" height="53" frameX="-4" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dead confirm0002" x="0" y="106" width="29" height="53" frameX="-2" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dead confirm0003" x="29" y="106" width="30" height="53" frameX="-1" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dead confirm0004" x="59" y="106" width="31" height="53" frameX="-1" frameY="-1" frameWidth="41" frameHeight="55" />
+<SubTexture name="bf-kirby dead confirm0005" x="90" y="106" width="29" height="53" frameX="-1" frameY="-1" frameWidth="41" frameHeight="55" />
+</TextureAtlas>

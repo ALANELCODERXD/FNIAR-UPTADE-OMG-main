@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "tmk idle"
+		},
+		{
+			"offsets": [
+				89,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tmk left"
+		},
+		{
+			"offsets": [
+				89,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tmk right"
+		},
+		{
+			"offsets": [
+				89,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "tmk up"
+		},
+		{
+			"offsets": [
+				91,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "tmk down"
+		},
+		{
+			"offsets": [
+				80,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "laugh",
+			"loop": false,
+			"name": "tmk jaja lol"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TMK_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tmk",
+	"flip_x": false,
+	"healthbar_colors": [
+		184,
+		184,
+		184
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 7.99999999999999
+}

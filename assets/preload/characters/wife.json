@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				190,
+				390
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Esposa Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				310,
+				390
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Esposa Left"
+		},
+		{
+			"offsets": [
+				259,
+				366
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Esposa Right"
+		},
+		{
+			"offsets": [
+				180,
+				416
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Esposa Up"
+		},
+		{
+			"offsets": [
+				180,
+				232
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Esposa Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Wife_Assets",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "wife",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-210,
+		-390
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

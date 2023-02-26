@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["forgotten-land", "tmk", [165, 0, 77]],
+		["pixel-horror", "tmk", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "stage",
+
+	"storyName": "tmk",
+	"difficulties": "hard",
+	"weekName": "tmk",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
